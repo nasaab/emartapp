@@ -1,2 +1,2 @@
 # emart-app
-# dummy commit
+# dummy commit to test the container deployment
